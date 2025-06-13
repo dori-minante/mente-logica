@@ -24,6 +24,6 @@ print("Maior de idade: ", maior_de_idade)
 
 # Manipulação de Strings
 # Crie uma variável frase que contenha a mensagem: "Olá, meu nome é [seu nome] e eu tenho [sua idade] anos."
-
+# Dica: Use str(idade) para converter o número inteiro em string antes de concatenar.
 frase = ("Olá, meu nome é " + nome + " e eu tenho " + str(idade) + " anos.")
 print(frase)
